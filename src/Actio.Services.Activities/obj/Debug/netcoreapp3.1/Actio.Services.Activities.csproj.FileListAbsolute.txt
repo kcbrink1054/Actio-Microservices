@@ -1,0 +1,88 @@
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.exe
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.deps.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.runtimeconfig.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.runtimeconfig.dev.json
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.dll
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.pdb
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Common.dll
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Common.pdb
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csprojAssemblyReference.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.AssemblyInfo.cs
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.RazorTargetAssemblyInfo.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csproj.CopyComplete
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\staticwebassets\Actio.Services.Activities.StaticWebAssets.Manifest.cache
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\staticwebassets\Actio.Services.Activities.StaticWebAssets.xml
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.dll
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.pdb
+C:\Users\Aniki\Desktop\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.genruntimeconfig.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.exe
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.deps.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.runtimeconfig.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.runtimeconfig.dev.json
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Activities.pdb
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\RawRabbit.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Common.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Common.pdb
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csprojAssemblyReference.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.AssemblyInfo.cs
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.RazorTargetAssemblyInfo.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.csproj.CopyComplete
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\staticwebassets\Actio.Services.Activities.StaticWebAssets.Manifest.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\staticwebassets\Actio.Services.Activities.StaticWebAssets.xml
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.pdb
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.genruntimeconfig.cache
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\RawRabbit.Operations.Publish.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\RawRabbit.Operations.Subscribe.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\RawRabbit.vNext.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Identity.exe
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Identity.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Actio.Services.Identity.pdb
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp3.1\Actio.Services.Activities.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aniki\Desktop\Kalans Stuff\Microservices\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
